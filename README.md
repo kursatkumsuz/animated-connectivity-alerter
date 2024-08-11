@@ -19,13 +19,8 @@ dependencyResolutionManagement {
 #### Step 2. Add the dependency
 
 ```
-dependencyResolutionManagement {
-		repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
-		repositories {
-			mavenCentral()
-			maven { url 'https://jitpack.io' }
-		}
+	dependencies {
+	        implementation 'com.github.kursatkumsuz:animated-connectivity-alerter:1.0.0'
 	}
-
 ```
 
