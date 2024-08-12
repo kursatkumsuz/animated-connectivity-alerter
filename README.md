@@ -24,3 +24,7 @@ dependencyResolutionManagement {
 	}
 ```
 
+
+
+https://github.com/user-attachments/assets/b96ad959-d00f-46aa-93c0-2da0baa953df
+
